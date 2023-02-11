@@ -6,6 +6,7 @@
 h1{
     color: crimson;
 }
-p{
+p{ 
+    display: flex;
     color: aqua;
 }
